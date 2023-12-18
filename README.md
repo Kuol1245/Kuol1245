@@ -17,11 +17,11 @@ I am a Master of Health Informatics student at the University of Toronto, passio
 ## Education
 - 🎓 **Master of Health Informatics**
   - University of Toronto
-  - [2023] - Present
+  - 2023 - Present
 
 - 🎓 **BSc. in Applied Statistics with Computing**
   - Moi University
-  - [2016] - [2023]
+  - 2016 - 2023
 
 ## Projects
 
