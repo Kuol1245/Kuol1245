@@ -1,4 +1,4 @@
-# Hello, I'm Kuol Alier
+# Hello, I'm Kuol Alier |Statistician|Data Analyst|Health Informatics Enthusiast|
 
 I am a Master of Health Informatics student at the University of Toronto, passionate about applying statistical and computational methods to healthcare data. My academic background includes a BSc. in Applied Statistics with Computing from Moi University.
 
